@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">newwindow</string>
+    <string name="buttontext">Войти в аккаунт</string>
+    <string name="hello">ПРИВЕТ \n Наслаждайся отборочными. \n Будь внимателен. \n делай хорошо.</string>
+    <string name="enterinacc">Войти в аккаунт</string>
+    <string name="register">Еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="signin">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="reg">Register</string>
+    <string name="profile">Профиль</string>
+    <string name="welcome">С возвращением, Эмиль!</string>
+    <string name="welcometext">Каким ты себя ощущаешь сегодня?</string>
+</resources>
