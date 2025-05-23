@@ -23,6 +23,6 @@ class Launchactivity : AppCompatActivity() {
 
 
         }
-        timer
+        timer.start()
     }
 }
